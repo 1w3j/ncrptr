@@ -1,1 +1,1 @@
-Java Encryptor can be opened as project on Netbeans IDE
+ncrptr uses javax.crypto library and it can be opened as project on Netbeans IDE
