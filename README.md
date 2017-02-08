@@ -9,3 +9,7 @@ ncrptr uses javax.crypto library and can be opened as project on Netbeans IDE
  
 ![converting](ncrptr-converting.png)
 ![encrypting](encrypting.png)
+
+ 3. Recover your files by pressing the De-convert button
+ 
+![encrypting](deconvert.png)
