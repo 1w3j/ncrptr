@@ -7,7 +7,7 @@ import javax.swing.JProgressBar;
 import javax.xml.bind.DatatypeConverter;
 /**
  *
- * @author iqbal
+ * @author 1w3j
  */
 public class AES {
 

@@ -38,7 +38,7 @@ import org.jdesktop.swingx.prompt.PromptSupport;
 
 /**
  *
- * @author iqbal
+ * @author 1w3j
  */
 public class Main extends javax.swing.JFrame {
 
